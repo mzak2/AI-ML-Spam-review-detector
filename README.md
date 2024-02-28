@@ -31,8 +31,8 @@ Lastly, if you wish to see how many of each Spam vs Non-spam reviews were used y
 ![](images/bargraph_spam.png) 
 <br>
 
-Here is an example of the data:<br>
-![](images/preprocessed_data_spam.png) 
+Here is an example of the data that was preprocessed and in the form of a CSV:<br>
+![](images/data_spam.png) 
 <br>
 
 The data was taken from https://www.kaggle.com/datasets/naveedhn/amazon-product-review-spam-and-non-spam/discussion <br>
