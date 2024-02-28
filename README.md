@@ -11,21 +11,31 @@ To install (NOTE: this executable only works on Windows 10 Operating systems):<b
 
 
 Here is an example of the program with a review entered in:<br>
-![](GUI_spam.PNG)
+![](images/GUI_spam.PNG)
 <br>
 
 Here is the overall accuracy of the AI model for detecting Spam reviews, based on this training set:<br>
-![](metrics_spam.png) 
+![](images/metrics_spam.png) 
 <br>
 
-Several graphs are included, like the word cloud for common words used in Spam reviews:<br>
-![](word_cloud_spam.png) 
+Several graphs are included, these graphs are updated automatically, based on the dataset.
+Here is an example of the word cloud for common words used in Spam reviews:<br>
+![](images/word_cloud_spam.png) 
 <br>
 
 You can see how the data is biased towards ratings of 5.0 based on number of likes here:<br>
-![](scatter_graph_spam.png) 
+![](images/scatter_graph_spam.png) 
 <br>
 
 Lastly, if you wish to see how many of each Spam vs Non-spam reviews were used you can look at the bar graph:<br>
-![](bargraph_spam.png) 
+![](images/bargraph_spam.png) 
 <br>
+
+Here is an example of the data:<br>
+![](images/preprocessed_data_spam.png) 
+<br>
+
+The data was taken from https://www.kaggle.com/datasets/naveedhn/amazon-product-review-spam-and-non-spam/discussion <br>
+and then preprocessed by myself to train the model.
+
+THIS PROJECT IS NOT INTENDED TO BE FOR SALE AND IS NOT TO BE USED FOR THE PURPOSES OF RESALE.
